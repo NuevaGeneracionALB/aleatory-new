@@ -125,6 +125,10 @@
       "info": "comando para criar nicks personalizado, tipo letras personalizadas, de acordo com o que você escrever."
     },
     {
+      "cmd": "celular",
+      "info": "Coloque a marca e a versão do celular pra eu entregar informações sobre ele."
+    },
+    {
       "cmd": "ytsearch",
       "info": "Comando para pesquisar musica ou video do youtube e pegar o link dele, para usar no play oh playmp4, para baixar algo."
     },    
