@@ -1,0 +1,124 @@
+{
+  "adms": [
+    {
+      "cmd": "ban",
+      "info": "Exemplo: ban @usuario_X ou marca a mensagem do usuário que deseja remover do grupo."
+    },
+    {
+      "cmd": "delete",
+      "info": "Exemplo: delete e marque uma mensagem, consigo apagar a mensagem de qualquer um do grupo."
+    },
+    {
+      "cmd": "so_adm",
+      "info": "Exemplo: so_adm uma vez pra ativar, depois só usar novamente para Desativar. Esse comando serve para todos os comandos do bot funcionar apenas para administradores do grupo."
+    },
+    {
+      "cmd": "anti_estrangeiro",
+      "info": "Usando o comando anti_estrangeiro uma vez ele ativa, usando novamente ele desativa.\n\nO comando addddi 55\nEle dará permissão a brasileiros com ddi 55 entrar no grupo, assim serve para qualquer outro país, use o comando e ele dará os exemplos."
+    },
+    {
+      "cmd": "antilink",
+      "info": "Utilizando o comando antilink uma vez ele ativa, usando novamente ele desativa, ele removerá todos link."
+    },
+    {
+      "cmd": "listanegra",
+      "info": "Use o comando listanegra e ele te mostrará o exemplo de como utilizar."
+    },
+    {
+      "cmd": "limitec",
+      "info": "Vai remover textos grande, pra ativar use o comando limitec para ver o exemplo, sem digitar nada."
+    },
+    {
+      "cmd": "bloquear",
+      "info": "Exemplo: bloquear Marque a mensagem do usuários ou o @dele ou número mesmo, ou então digite o comando que ele te dará um exemplo melhor.."
+    },
+    {
+      "cmd": "promover",
+      "info": "Use o comando para promover alguém a administrador do grupo, já para passar ele a ser membro, só usar o comando rebaixar."
+    },
+    {
+      "cmd": "fechargp",
+      "info": "Comando para fechar o grupo, quiser abrir, só usar abrirgp"
+    },
+    {
+      "cmd": "bloquearcmd",
+      "info": "use o comando para bloquear algum comando que você não gostou de ser utilizado em seu grupo, use o comando pra ver o exemplo, para ver os comandos bloqueados, use comandosbloqueado"
+    }
+  ],
+  "donos": [
+    {
+      "cmd": "reiniciar",
+      "info": "Exemplo: reiniciar / Vai servir para reiniciar o bot sem precisar ficar dando CTRL + C ou algo do tipo."
+    },
+    {
+      "cmd": "blockbot",
+      "info": "Exemplo: blockbot usando uma vez ele bloqueia todas ações de qualquer pessoa menos do dono, vai parar globalmente, já usando o comando novamente ele desativa essa função."
+    },
+    {
+      "cmd": "addmenu",
+      "info": "Veja o exemplo digitando o comando, é pra adicionar comandos no menu.\n\nCategorias: adms, membros, donos"
+    },
+    {
+      "cmd": "rmmenu",
+      "info": "Veja o exemplo digitando o comando, serve para remover comandos do menu.\n\nCategorias: adms, membros, donos"
+    },
+    {
+      "cmd": "acess",
+      "info": "Use o comando acess ls ou rm -rf, é igual execução de um terminal, mais prático direto do bot."
+    },
+    {
+      "cmd": "listanegragb",
+      "info": "Use o comando listanegra e ele te mostrará o exemplo de como utilizar."
+    },
+    {
+      "cmd": "antipvig",
+      "info": "Comando para ignorar qualquer mensagem e comando enviado no privado do bot."
+    },
+    {
+      "cmd": "gerarnovoqr",
+      "info": "Comando para gerar um novo qrcode e colocar o bot em outro whatsapp."
+    }
+  ],
+  "membros": [
+    {
+      "cmd": "play",
+      "info": "Exemplo: play sad / ae ele vai pesquisar o nome da música e enviar ela em áudio."
+    },
+    {
+      "cmd": "playmp4",
+      "info": "Exemplo: playmp4 atika patum / comando bom para baixar alguns vídeos."
+    },
+    {
+      "cmd": "twitter",
+      "info": "Exemplo: twitter link da imagem, audio ou vídeo do Twitter."
+    },
+    {
+      "cmd": "sticker",
+      "info": "Exemplo: sticker e marque uma imagem ou um vídeo curto."
+    },
+    {
+      "cmd": "tiktok",
+      "info": "Exemplo: tiktok link do tiktok, mas lembre que só serve link do tiktok."
+    },
+    {
+      "cmd": "roubar",
+      "info": "Exemplo: roubar texto1/texto2, marque uma figurinha para roubar e por o título de author nela."
+    },
+    {
+      "cmd": "signo",
+      "info": "Exemplo: signo virgem / ele vai entregar informações do seu signo, e dia a dia.. etc.."
+    },
+    {
+      "cmd": "toimg",
+      "info": "Exemplo: toimg e marque uma figurinha que não se movimenta, para ela ser convertida em imagem."
+    },
+    {
+      "cmd": "attp",
+      "info": "Exemplo: attp e escreva uma frase, e a frase será enviada em figurinha, e com efeito de pisca pisca."
+    },
+    {
+      "cmd": "facebook",
+      "info": "Exemplo: facebook link do Facebook aqui, para baixar o vídeo."
+    }
+  ]
+}
