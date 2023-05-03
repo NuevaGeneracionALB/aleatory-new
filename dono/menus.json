@@ -113,9 +113,21 @@
       "info": "Exemplo: toimg e marque uma figurinha que não se movimenta, para ela ser convertida em imagem."
     },
     {
+      "cmd": "moedas",
+      "info": "Este comando mostrará lista de moedas, tipo valor do dolar, euro, bitcoin, e etc.."
+    },
+    {
       "cmd": "attp",
       "info": "Exemplo: attp e escreva uma frase, e a frase será enviada em figurinha, e com efeito de pisca pisca."
     },
+    {
+      "cmd": "gerarnick",
+      "info": "comando para criar nicks personalizado, tipo letras personalizadas, de acordo com o que você escrever."
+    },
+    {
+      "cmd": "ytsearch",
+      "info": "Comando para pesquisar musica ou video do youtube e pegar o link dele, para usar no play oh playmp4, para baixar algo."
+    },    
     {
       "cmd": "facebook",
       "info": "Exemplo: facebook link do Facebook aqui, para baixar o vídeo."
