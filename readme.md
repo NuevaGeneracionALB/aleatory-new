@@ -9,7 +9,7 @@ E o nodejs, depois final de vez usar o github do aleatory-md
 
 Você usa do aleatory-new.
 
-git clone https://github.com/NuevaGeneracionALB/aleatory-md
+git clone https://github.com/NuevaGeneracionALB/aleatory-new.git
 
 
 
