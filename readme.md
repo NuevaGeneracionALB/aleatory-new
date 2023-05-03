@@ -1,5 +1,9 @@
 Para utilizar em Ubuntu, instale o Chrome stable.
 
+OBS: VÁ NA PASTA DONO, AQUIVO configurar.json PARA CONFIGURAR O DONO, E QUAL MÁQUINA TÁ USANDO, WINDOWS, MACOS, OU LINUX.
+
+OBS2: NA PASTA DONO, NO ARQUIVO textos.js VOCÊ PODE CONFIGURAR TODAS RESPOSTAS PRINCIPAIS DO BOT, COMO RESPOSTA DE QUANDO UM LINK FOI REMOVIDO, OU ESTRANGEIRO,E ETC..
+
 Ubuntu 20.04:
 https://sempreupdate.com.br/como-instalar-o-google-chrome-no-ubuntu-20-04/
 

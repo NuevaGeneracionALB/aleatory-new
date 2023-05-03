@@ -3,8 +3,8 @@
     "start": "sh ligar"
   },
   "dependencies": {
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js",
     "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.19.5",
     "node-fetch": "^2.6.7",
     "colors": "^1.4.0",
     "linkifyjs": "^4.1.1",
