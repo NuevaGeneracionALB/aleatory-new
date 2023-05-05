@@ -16,7 +16,7 @@ LISTA_NEGRA_T: `Este usuario se encontra na lista negra, então por ordem dos ad
 LISTA_NEGRA_GLOBAL: `Este usuario se encontra na lista negra, então por ordem do meu dono, irei remover ele(a)`,
 
 // TEXTO QUE VAI APARECER, QUANDO REMOVER UM ESTRANGEIRO, LEMBRE-SE DE ADD O DDI, O DO BRASIL É 55:
-ANTI_ESTRANGEIRO_T: `Usuario estrangeiro não permitido entrou no grupo, irei remover ele por não está na lista de DDI permitido do país dele, Fale com algum administrador`,
+ANTI_ESTRANGEIRO_T: `Usuario estrangeiro não permitido entrou no grupo, irei remover ele por não está na lista de DDI permitido do país dele.`,
 
 // MENSAGEM DE QUE REMOVEU O USARIO QUE ENVIOU LINK.
 REMOVEU_LINK: `Usuario enviou um link, e não é permitido no grupo, adeus.`,

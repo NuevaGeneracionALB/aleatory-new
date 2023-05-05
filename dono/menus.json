@@ -43,6 +43,14 @@
     {
       "cmd": "bloquearcmd",
       "info": "use o comando para bloquear algum comando que você não gostou de ser utilizado em seu grupo, use o comando pra ver o exemplo, para ver os comandos bloqueados, use comandosbloqueado"
+    },
+    {
+      "cmd": "inativos",
+      "info": "use o comando e coloque a quantidade de mensagens, tipo: inativos 2, ae irei mostrar todos que tem 2 mensagens ou menos."
+    },
+    {
+      "cmd": "baninativos",
+      "info": "Veja primeiro o comando inativos, pra não acabar banindo seu grupo todo, o baninativo serve para você banir pessoas que não manda mensagens ou interage no grupo, exemplo: baninativo 1, ae vou remover todos que tem 1 mensagem apenas ou menos.."
     }
   ],
   "donos": [
@@ -131,10 +139,14 @@
     {
       "cmd": "ytsearch",
       "info": "Comando para pesquisar musica ou video do youtube e pegar o link dele, para usar no play oh playmp4, para baixar algo."
-    },    
+    },
     {
       "cmd": "facebook",
       "info": "Exemplo: facebook link do Facebook aqui, para baixar o vídeo."
+    },
+    {
+      "cmd": "rankativos",
+      "info": "Mostra os 10 mais ativos do grupo."
     }
   ]
 }
