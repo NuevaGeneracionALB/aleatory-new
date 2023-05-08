@@ -19,5 +19,7 @@ git clone https://github.com/NuevaGeneracionALB/aleatory-new.git
 
 Já se não tiver onde hospedar, você pode pagar hospedagem, lá na bronxyshost.com, e lá tem o bot já pra instalar direto, quiser pagar a hospedagem via pix, chama lá: https://wa.me/558198923680
 
+E tiver dúvidas também pode chamar lá.
+
 
 Meu grupo / para suporte: https://chat.whatsapp.com/FT9Szs4fMom7nS2qFNMmye# aleatory-new

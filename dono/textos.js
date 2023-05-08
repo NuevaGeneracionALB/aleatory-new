@@ -1,5 +1,8 @@
 var TEXTOS_GERAL = {
 
+// TEXTO PARA QUANDO ALGUÉM TENTAR USAR UM COMANDO VIP.
+TEXTO_VIP: `Este comando é apenas para vips.`,
+
 // MENSAGEM DE COMANDO NÃO ENCONTRADO: O #PREFIXO# é a definição que pega o prefixo.
 CMD_N_ENCONTRADO: `_- Comando não encontrado: Utilize #PREFIXO#menu para visualizar meus comandos.`,
 

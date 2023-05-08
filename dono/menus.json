@@ -51,6 +51,10 @@
     {
       "cmd": "baninativos",
       "info": "Veja primeiro o comando inativos, pra não acabar banindo seu grupo todo, o baninativo serve para você banir pessoas que não manda mensagens ou interage no grupo, exemplo: baninativo 1, ae vou remover todos que tem 1 mensagem apenas ou menos.."
+    },
+    {
+      "cmd": "marcar",
+      "info": "Coloque por exemplo: marcar e digite algo, irei marcar todos nesse texto, de fórma invisível."
     }
   ],
   "donos": [
@@ -61,6 +65,26 @@
     {
       "cmd": "blockbot",
       "info": "Exemplo: blockbot usando uma vez ele bloqueia todas ações de qualquer pessoa menos do dono, vai parar globalmente, já usando o comando novamente ele desativa essa função."
+    },
+    {
+      "cmd": "addvip",
+      "info": "Exemplo: addvip @marca ou marca a mensagem dele | data de vencimento"
+    },
+    {
+      "cmd": "rmvip",
+      "info": "Marca o @dele ou a mensagem ou o numero, tipo: +55 81 9892-3688"
+    },
+    {
+      "cmd": "addcmdvip",
+      "info": "Exemplo: addcmdvip play, ae o comando só vai ser possivel ser usado se o usuario for vip."
+    },
+    {
+      "cmd": "rmcmdvip",
+      "info": "só usar o comando, rmcmdvip play, ae ele tira o comando da lista vip."
+    },
+    {
+      "cmd": "rmctmenu",
+      "info": "Veja o exemplo digitando o comando, serve para remover categorias do menu por completo, tipo adms, donos, membros\n\nCategorias: adms, membros, donos"
     },
     {
       "cmd": "addmenu",
@@ -85,6 +109,14 @@
     {
       "cmd": "gerarnovoqr",
       "info": "Comando para gerar um novo qrcode e colocar o bot em outro whatsapp."
+    },
+    {
+      "cmd": "bemvindo",
+      "info": "Esse bem vindo é com foto do grupo, e quando ativar, ele explica como definir o texto."
+    },
+    {
+      "cmd": "bemvindo2",
+      "info": "Esse bem vindo é sem foto do grupo, apenas texto, e quando ativar, ele explica como definir o texto."
     }
   ],
   "membros": [

@@ -1,5 +1,6 @@
 {
 "BOT_OFF": false,
+"ANTIPVIG": false,
 "LISTA_NEGRA_GLOBAL": [],
-"ANTIPVIG": false
+"LISTA_COMANDOS_VIP": []
 }

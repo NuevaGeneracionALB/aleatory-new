@@ -8,6 +8,7 @@
     "node-fetch": "^2.6.7",
     "colors": "^1.4.0",
     "linkifyjs": "^4.1.1",
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "moment-timezone": "^0.5.43"
   }
 }
