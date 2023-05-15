@@ -55,6 +55,10 @@
     {
       "cmd": "marcar",
       "info": "Coloque por exemplo: marcar e digite algo, irei marcar todos nesse texto, de fórma invisível."
+    },
+    {
+      "cmd": "antipalavra",
+      "info": "Comando para ativar o anti palavra, após usar o comando ele te instruirá a como adicionar as palavras, que é o comando addpalavra, e pra remover rmpalavra."
     }
   ],
   "donos": [
@@ -179,6 +183,12 @@
     {
       "cmd": "rankativos",
       "info": "Mostra os 10 mais ativos do grupo."
+    }
+  ],
+  "informações": [
+    {
+      "cmd": "git",
+      "info": "Comando para eu informar minha github para instalação do Aleatory New."
     }
   ]
 }

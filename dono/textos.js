@@ -1,5 +1,8 @@
 var TEXTOS_GERAL = {
 
+// TEXTO DE REMOÇÃO DE QUANDO FALA UMA PALAVRA PROIBIDA DO ANTIPALAVRA / JÁ O #prefixo# ali ele puxa o prefixo que pode ser / ou ! tanto faz..
+PALAVRAS_PB: `Usuario enviou uma palavra proibida, veja as palavras proibida para não cometer os mesmos erros, comando: #prefixo#palavraspb`,
+
 // TEXTO PARA QUANDO ALGUÉM TENTAR USAR UM COMANDO VIP.
 TEXTO_VIP: `Este comando é apenas para vips.`,
 
