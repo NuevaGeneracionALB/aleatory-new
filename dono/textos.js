@@ -1,5 +1,8 @@
 var TEXTOS_GERAL = {
 
+// MENSAGEM DO COMANDO ANTIPVMSG
+ANTIPV_MSG: `O Bot Aleatory New, não pode ser utilizado no privado, apenas em grupos.`,
+
 // TEXTO DE REMOÇÃO DE QUANDO FALA UMA PALAVRA PROIBIDA DO ANTIPALAVRA / JÁ O #prefixo# ali ele puxa o prefixo que pode ser / ou ! tanto faz..
 PALAVRAS_PB: `Usuario enviou uma palavra proibida, veja as palavras proibida para não cometer os mesmos erros, comando: #prefixo#palavraspb`,
 

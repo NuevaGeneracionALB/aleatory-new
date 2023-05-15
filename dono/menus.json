@@ -111,6 +111,10 @@
       "info": "Comando para ignorar qualquer mensagem e comando enviado no privado do bot."
     },
     {
+      "cmd": "antipvmsg",
+      "info": "Comando que vai enviar uma mensagem, quando mandarem uma mensagem privado, e depois ignorar qualquer comando."
+    }, 
+    {
       "cmd": "gerarnovoqr",
       "info": "Comando para gerar um novo qrcode e colocar o bot em outro whatsapp."
     },
