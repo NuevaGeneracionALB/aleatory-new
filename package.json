@@ -4,11 +4,15 @@
   },
   "dependencies": {
     "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js",
-    "qrcode-terminal": "^0.12.0",
-    "node-fetch": "^2.6.7",
+    "axios": "^1.4.0",
     "colors": "^1.4.0",
     "linkifyjs": "^4.1.1",
-    "axios": "^1.4.0",
-    "moment-timezone": "^0.5.43"
-  }
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^2.6.7",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "author": "Aleatory Conteudos",
+  "license": "MIT",
+  "homepage": "https://github.com/NuevaGeneracionALB/aleatory-new#readme"
 }
+

@@ -1,5 +1,9 @@
 var TEXTOS_GERAL = {
 
+// TEXTO PARA QUANDO REMOVER UM USUARIO QUE TÁ MARCANDO TODOS COM WHATSAPP MODIFICADO, E NÃO É ADM DO GRUPO:
+
+MARCOU_TODOS: `Usuario com mensagem marcando todos do grupo, talvez seja o Whatsapp dele, ou ele marcou com @ todos, irei remover e apagar a mensagem dele, Adeus..`,
+
 // MENSAGEM DO COMANDO ANTIPVMSG
 ANTIPV_MSG: `O Bot Aleatory New, não pode ser utilizado no privado, apenas em grupos.`,
 
