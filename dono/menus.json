@@ -149,10 +149,6 @@
       "info": "Este comando: #prefixo#celular Serve para informar o usuario o processador, memoria, e informações sobre o aparelho que deseja comprar ou apenas se informar mais sobre ele, utilizarei um exemplo: #prefixo#celular Galaxy a9 2018\nBoa sorte."
     },
     {
-      "cmd": "ytsearch",
-      "info": "Este comando: #prefixo#ytsearch serve para pesquisar videos do youtube, e ele mostrará os links relacionado ao titulo que você pesquisar, por exemplo: #prefixo#ytsearch Sad\nEle mostrará todos links do youtube relacionado ao titulo: Sad\nBoa sorte."
-    },
-    {
       "cmd": "rankativos",
       "info": "Usando o comando #prefixo#rankativos\n- Mostra os 10 mais ativos do grupo\nMas caso não tenha 10 Usuarios registrados / no grupo, Mostrará a quantidade de membros que contém se for menos de 10."
     },
@@ -175,12 +171,24 @@
     {
       "cmd": "roubar",
       "info": "Comando usado para mudar a descrição de uma figurinha, só marque alguma figurinha que deseja mudar a descrição, com o comando roubar. \n\nExemplo: #prefixo#roubar Aleatory/Conteúdos\n\nEste exemplo eu determino a primeira legenda com o nome Aleatory e coloquei uma / para dividir, e o Conteúdos para ficar na outra parte...\n\nÉ obrigatório ter a /\n\nBoa sorte."
+    },
+    {
+      "cmd": "ytsearch",
+      "info": "Este comando: #prefixo#ytsearch serve para pesquisar videos do youtube, e ele mostrará os links relacionado ao titulo que você pesquisar, por exemplo: #prefixo#ytsearch Sad\nEle mostrará todos links do youtube relacionado ao titulo: Sad\nBoa sorte."
+    },
+    {
+      "cmd": "instagram",
+      "info": "Este comando serve para baixar vídeos do Instagram, por exemplo: #prefixo#instagram Link do Instagram aqui.\n\nEm caso de erros, verifique se a conta não é privada, ou pode ser problema no link mesmo."
     }
   ],
   "informações": [
     {
       "cmd": "git",
       "info": "Comando para eu informar minha github para instalação do Aleatory New."
+    },
+    {
+      "cmd": "status",
+      "info": "Este comando informará quais comandos estão Desativado ou Ativado, Boa sorte."
     }
   ]
 }

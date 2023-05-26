@@ -31,8 +31,8 @@ LISTA_NEGRA_GLOBAL: `Este usuario se encontra na lista negra, então por ordem d
 // TEXTO QUE VAI APARECER, QUANDO REMOVER UM ESTRANGEIRO, LEMBRE-SE DE ADD O DDI, O DO BRASIL É 55:
 ANTI_ESTRANGEIRO_T: `Usuario estrangeiro não permitido entrou no grupo, irei remover ele por não está na lista de DDI permitido do país dele.`,
 
-// MENSAGEM DE QUE REMOVEU O USARIO QUE ENVIOU LINK.
-REMOVEU_LINK: `Usuario enviou um link, e não é permitido no grupo, adeus.`,
+// MENSAGEM DE QUE REMOVEU O USARIO QUE ENVIOU LINK // SE QUISER QUE A MENSAGEM NÃO SEJA ENVIADA, DEIXE DEFINIDO `0`
+REMOVEU_LINK: `0`,
 
 // REMOVER USUARIOS QUE EXCEDE O LIMITE DE CARACTERES, DO COMANDO LIMITECARACTERES OU USANDO O DIMINUITIVO LIMITEC, A SIGLA #LMTCRC# É UMA DEFINIÇÃO DO LIMITE QUE NÃO PODE EXCEDER, QUE VAI APARECER QUANDO ENVIAR.
 LIMITE_CARACTERES: `Usuario excedeu o limite de caracteres permitida pelos administradores, então irei remover, Limite permitido: #LMTCRC#`,
