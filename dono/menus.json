@@ -150,7 +150,7 @@
     },
     {
       "cmd": "rankativos",
-      "info": "Usando o comando #prefixo#rankativos\n- Mostra os 10 mais ativos do grupo\nMas caso não tenha 10 Usuarios registrados / no grupo, Mostrará a quantidade de membros que contém se for menos de 10."
+      "info": "Usando o comando #prefixo#rankativos\n- Mostra os 10 mais ativos do grupo\nMas caso não tenha 10 Usuarios registrados / no grupo, Mostrará a quantidade de membros que contém se for menos de 10\n\nSe deseja ver a atividade de apenas um usuário, marque a mensagem dele ou @dele com #prefixo#checkativo\nExemplo: #prefixo#checkativo @numerodele"
     },
     {
       "cmd": "facebook",
