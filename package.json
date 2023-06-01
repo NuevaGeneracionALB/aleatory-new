@@ -3,13 +3,14 @@
     "start": "sh ligar"
   },
   "dependencies": {
-    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js",
     "axios": "^1.4.0",
     "colors": "^1.4.0",
     "linkifyjs": "^4.1.1",
+    "cheerio": "^1.0.0-rc.12",
     "moment-timezone": "^0.5.43",
     "node-fetch": "^2.6.7",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js"
   },
   "author": "Aleatory Conteudos",
   "license": "MIT",
