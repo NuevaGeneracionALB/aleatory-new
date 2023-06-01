@@ -63,10 +63,6 @@
       "info": "Exemplo: #prefixo#reiniciar / Vai servir para reiniciar o bot sem precisar ficar dando CTRL + C ou algo do tipo, bem util, e evita Loops de reconexão na maquina / terminal.."
     },
     {
-      "cmd": "addvip",
-      "info": "Este comando, é composto por 3:\n\n#prefixo#addvip\n#prefixo#rmvip\n#prefixo#listavip\n\nO comando addvip serve para você adicionar um usuario vip, para ele utilizar os comandos que você determinou ser vip, Exemplo: #prefixo#addvip @marca o numero dele no grupo, ou você marca a mensagem dele com o comando: #prefixo#addvip e depois do comando, coloque uma | e a data que vai vencer, mas ae é com você, porque será mostrado na listavip, o vencimento, não é algo automatico mas sim algo de visibilidade apenas.\nAgora se você quer remover o vip dele, use: #prefixo#rmvip @dele ou marque a mensagem com o comando, ou o numero dele tipo: #prefixo#rmvip +55 81 9892-3688\nBoa sorte."
-    },
-    {
       "cmd": "addvipglobal",
       "info": "Este comando, é composto por 3:\n\n#prefixo#addvipglobal\n#prefixo#rmvipglobal\n#prefixo#listavipglobal\n\nO comando addvipglobal serve para você adicionar um usuario vip em todos os grupos que ele estiver, para ele utilizar os comandos que você determinou ser vip, Exemplo: #prefixo#addvipglobal @marca o numero dele no grupo, ou você marca a mensagem dele com o comando: #prefixo#addvip e depois do comando, coloque uma | e a data que vai vencer, mas ae é com você, porque será mostrado na listavipglobal, o vencimento, não é algo automatico mas sim algo de visibilidade apenas.\nAgora se você quer remover o vip dele, use: #prefixo#rmvipglobal @dele ou marque a mensagem com o comando, ou o numero dele tipo: #prefixo#rmvip +55 81 9892-3688\nPode remover o vip através do privado do bot se quiser.\nBoa sorte."
     },
@@ -113,6 +109,14 @@
     {
       "cmd": "blockbot",
       "info": "O Comando #prefixo#blockbot é usado para parar totalmente o bot em todos os grupos, e nada funcionar, apenas o dono pode executar comandos, mas nada funcionará, nem antilink, nem antifake, nada.. Absolutamente nada.. Use caso algum dia for necessário.\n\nBoa sorte."
+    },
+    {
+      "cmd": "listagp",
+      "info": "O comando #prefixo#listagp é usado para verificar quantos grupos o bot se encontram, também para pegar os ID, Boa sorte."
+    },
+    {
+      "cmd": "addvip",
+      "info": "Este comando, é composto por 3:\n\n#prefixo#addvip\n#prefixo#rmvip\n#prefixo#listavip\n\nO comando addvip serve para você adicionar um usuario vip, para ele utilizar os comandos que você determinou ser vip, Exemplo: #prefixo#addvip @marca o numero dele no grupo, ou você marca a mensagem dele com o comando: #prefixo#addvip e depois do comando, coloque uma #/# e a data que vai vencer, Exemplo: 10/10/23 use no formato 23 não 2023 quando chegar a data de vencimento, no outro dia ele será tirado da lista vip de fórma automatica.\n\nAgora se você quer remover o vip dele antes do tempo, use: #prefixo#rmvip @dele ou marque a mensagem com o comando, ou o numero dele tipo: #prefixo#rmvip +55 81 9892-3688\nBoa sorte."
     }
   ],
   "membros": [

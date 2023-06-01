@@ -2,10 +2,10 @@
   
 "prefixo": "/",
 
-"numerodono": "NÚMERO_DO_DONO",
+"numerodono": "SEU_NUMERO_DO_WHATSAPP",
 
 "PATH_PUXAR_EXECUCAO_DE_QUAL_NAVEGADOR": "linux",
 
-"OBS": "OPÇÕES, NO PATH_PUXAR_EXECUCAO_DE_QUAL_NAVEGADOR, SE FOR USAR WINDOWS, COLOQUE windows, FOR MACOS COLOQUE macos, FOR LINUX / UBUNTU, COLOQUE linux, E NÃO ESQUEÇA DE INSTALAR O google-chrome-stable, e se não for essas opções no windows, procure no gerenciador o diretorio do chrome.exe, E cole no lugar de linux"
+"OBS": "OPÇÕES, NO PATH_PUXAR_EXECUCAO_DE_QUAL_NAVEGADOR, SE FOR USAR WINDOWS, COLOQUE windows, FOR MACOS COLOQUE macos, FOR LINUX / UBUNTU, COLOQUE linux, E NÃO ESQUEÇA DE INSTALAR O google-chrome-stable, e se não for essas opções no windows, procure no gerenciador o diretorio do chrome.exe, s cole no lugar de linux"
 
 }
