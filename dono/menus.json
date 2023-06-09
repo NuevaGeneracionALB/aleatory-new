@@ -55,6 +55,10 @@
     {
       "cmd": "antipalavra",
       "info": "Este comando é composto por 3 comandos contando com esse:\n\n#prefixo#antipalavra\n\n#prefixo#addpalavra\n\n#prefixo#rmpalavra\n\nO antipalavra é ativado para o resto da funcionalidade.\n\nPor exemplo, você quer proibir que a palavra \"seu gay\" seja proibido de falar no seu grupo, você vai usar o comando como exemplo:\n\n#prefixo#addpalavra seu gay\n\nEntão qualquer pessoa que falar a frase \"seu gay\" sem ser administrador ou dono do bot, será removido do grupo e a frase será apagada.\n\nJá se você quer liberar, para a frase não ser mais proibida no grupo, você usa\n\n#prefixo#rmpalavra seu gay\n\nEntão é isso, boa sorte."
+    },
+    {
+      "cmd": "limitarcomando",
+      "info": "Este comando é composto por 2:\n\n1: #prefixo#tempocmd\n\n2: #prefixo#limitarcomando\n\nApós ativar o #prefixo#limitarcomando qualquer usuário sem ser adm, vip ou dono usar algum comando, só poderá ser executado depois de 1 minuto, se quiser aumentar o tempo ou diminuir, use:\n\n#prefixo#tempocmd 120\n\ncoloquei 120 = 2 minutos de tempo, se colocar 20, será igual a 20 segundos por comando, então boa sorte no que quiser colocar, lembrando que tem 1 minuto por padrão após ativar."
     }
   ],
   "donos": [

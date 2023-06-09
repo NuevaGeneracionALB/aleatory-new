@@ -1,6 +1,6 @@
-Para utilizar em Ubuntu, instale o Chrome stable.
+Para utilizar em Ubuntu, instale o Chrome stable / for em arm64 use chromium-browser
 
-OBS: VÁ NA PASTA DONO, ARQUIVO configurar.json PARA CONFIGURAR O DONO, E QUAL MÁQUINA TÁ USANDO, WINDOWS, MACOS, OU LINUX.
+OBS: VÁ NA PASTA DONO, ARQUIVO configurar.json PARA CONFIGURAR O DONO, E QUAL MÁQUINA TÁ USANDO, WINDOWS, MACOS, OU LINUX, ou se for arm64 ou usuário de chromium, coloque "/usr/bin/chromium-browser" Boa sorte.
 
 OBS2: NA PASTA DONO, NO ARQUIVO textos.js VOCÊ PODE CONFIGURAR TODAS RESPOSTAS PRINCIPAIS DO BOT, COMO RESPOSTA DE QUANDO UM LINK FOI REMOVIDO, OU ESTRANGEIRO,E ETC..
 

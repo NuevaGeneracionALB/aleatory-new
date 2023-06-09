@@ -1,5 +1,8 @@
 var TEXTOS_GERAL = {
 
+// #tempo# é quantos segundos ta definido no comando tempocmd, e #tempocmd# é quanto falta pra chegar no tempo definido, exemplo: 1 minuto // esse texto é do comando limitarcomando, veja a info dele usando o comando info limitarcomando
+TEMPO_DE_CMD: `Aguarde #tempo# Segundos ate executar outro comando, tempo a conxluir: ⏳ #tempocmd#`,
+
 // TEXTO PARA QUANDO REMOVER UM USUARIO QUE TÁ MARCANDO TODOS COM WHATSAPP MODIFICADO, E NÃO É ADM DO GRUPO:
 
 MARCOU_TODOS: `Usuario com mensagem marcando todos do grupo, talvez seja o Whatsapp dele, ou ele marcou com @ todos, irei remover e apagar a mensagem dele, Adeus..`,
