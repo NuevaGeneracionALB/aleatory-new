@@ -120,7 +120,7 @@
     },
     {
       "cmd": "addvip",
-      "info": "Este comando, é composto por 3:\n\n#prefixo#addvip\n#prefixo#rmvip\n#prefixo#listavip\n\nO comando addvip serve para você adicionar um usuario vip, para ele utilizar os comandos que você determinou ser vip, Exemplo: #prefixo#addvip @marca o numero dele no grupo, ou você marca a mensagem dele com o comando: #prefixo#addvip e depois do comando, coloque uma #/# e a data que vai vencer, Exemplo: 10/10/23 use no formato 23 não 2023 quando chegar a data de vencimento, no outro dia ele será tirado da lista vip de fórma automatica.\n\nAgora se você quer remover o vip dele antes do tempo, use: #prefixo#rmvip @dele ou marque a mensagem com o comando, ou o numero dele tipo: #prefixo#rmvip +55 81 9892-3688\nBoa sorte."
+      "info": "Comandos:\n\n#prefixo#addvip\n\n#prefixo#rmvip\n\n#prefixo#listavip\n\nPara adicionar alguém na lista vip, use o comando: #prefixo#addvip\n\nmas contém 2 fórma.\n\n#prefixo#addvip @marca número da pessoa que tá no grupo/1h\n\nou então\n\n#prefixo#addvip /1h\n\n1h usei como exemplo, mas você pode usa 1d ou 30d ou 50h\n\ndias ou horas, e ele vai contar do momento que registrou até acabar, quando acabar o Vip do usuário, ele vai ser tirado da lista vip e você vai receber um aviso falando que o Vip do usuário X venceu.\n\ncaso queira remover o usuário da lista vip antes do tempo, só usar #prefixo#rmvip marcando o @numero no grupo, ou marcando a mensagem dele com #prefixo#rmvip\n\ne para ver o tempo de vencimento e quem tá na lista vip, use o comando: #prefixo#listavip\n\n\nLembrem-se que para adicionar comandos como vip use o comando: #prefixo#info addcmdvip para ver como fazer isso.\n\nBoa sorte."
     }
   ],
   "membros": [
@@ -197,6 +197,16 @@
     {
       "cmd": "status",
       "info": "Este comando informará quais comandos estão Desativado ou Ativado, Boa sorte."
+    }
+  ],
+  "brincadeiras": [
+    {
+      "cmd": "casal",
+      "info": "Como usar o comando casal?\n\nentão, você pode usar assim:\n\n!casal @usuario1\n\no @ de quem quiser, e vai ser procurado um par pra ele, já se você usar:\n\n#prefixo#casal @usuario1 @usuario2 ele vai calcular a porcentagem dos 2 se relacionar..\n\njá se você digitar apenas #prefixo#casal ele vai pegar 2 pessoa aleatória e formar casal e entregar a porcentagem de certeza sobre a relação dos 2 👌😌"
+    },
+    {
+      "cmd": "perfil",
+      "info": "Comando: #prefixo#perfil usado apenas pra zoar mesmo, lá mostrarei as informações de quantas mensagens tem, e porcentagens aleatórias, tipo se é bonito, corno, gado, e etc..\n\nBoa sorte."
     }
   ]
 }
