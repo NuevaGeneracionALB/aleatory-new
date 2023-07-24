@@ -1,4 +1,4 @@
-Para utilizar em Ubuntu, instale o Chrome stable / for em arm64 instale chromium-browser / chromium
+Para utilizar em Ubuntu, instale o Chrome stable / for em arm64 use chromium-browser
 
 OBS: VÁ NA PASTA DONO, ARQUIVO configurar.json PARA CONFIGURAR O DONO, E QUAL MÁQUINA TÁ USANDO, WINDOWS, MACOS, OU LINUX, ou se for arm64 ou usuário de chromium, coloque "/usr/bin/chromium-browser" Boa sorte.
 

@@ -187,6 +187,18 @@
     {
       "cmd": "instagram",
       "info": "Este comando serve para baixar vídeos do Instagram, por exemplo: #prefixo#instagram Link do Instagram aqui.\n\nEm caso de erros, verifique se a conta não é privada, ou pode ser problema no link mesmo."
+    },
+    {
+      "cmd": "emoji",
+      "info": "Exemplo: #prefixo#emoji 🥺/whatsapp\nou\n#prefixo#emoji 🥺\n\nmas a opção /whatsapp vai vim como padrão se não for colocado, é fórmas diferentes que irei por a baixo, são formatos de emoji diferentes.\n\nLista:\n\n/apple\n\n/google\n\n/samsung\n\n/microsoft\n\n/whatsapp\n\n/twitter\n\n/facebook\n\n/joypixels\n\n/openmoji\n\n/emojidex\n\n/lg\n\n/htc\n\nBoa sorte."
+    },
+    {
+      "cmd": "emojimix",
+      "info": "Este comando é para junção de emoji, e ele entrega um resultado diferente, por exemplo: #prefixo#emojimix 😇+🤡\n\nae ele vai entregar o palhaço com a coroa de anjo.. então você vai tentando ver os emojis diferentes que você quiser, mas só funciona com emojis de cara, não mãos e etc..\n\nBoa sorte."
+    },
+    {
+      "cmd": "esporte-noticias",
+      "info": "Este comando eu criei com o intuito de trazer notícias recente do dia a dia do mundo esportivo ( Futebol ) & Bom demais pra quem curte ficar por dentro das notícias, só usar o comando #prefixo#esporte-noticias\n\nele vai vim noticias aleatórias do dia que foi publicadas, do mundo do futebol 🙂, Boa sorte."
     }
   ],
   "informações": [
@@ -207,6 +219,16 @@
     {
       "cmd": "perfil",
       "info": "Comando: #prefixo#perfil usado apenas pra zoar mesmo, lá mostrarei as informações de quantas mensagens tem, e porcentagens aleatórias, tipo se é bonito, corno, gado, e etc..\n\nBoa sorte."
+    }
+  ],
+  "pesquisas": [
+    {
+      "cmd": "playstore",
+      "info": "Este comando ele serve para pesquisar aplicativos da play store, pra saber a disponibilidade e links de fórmas mais direta, por exemplo: #prefixo#playstore pubg mobile\n\nEle vai entregar os resultados referentes ao nome do jogo que pesquisei.\n\nBoa sorte!!"
+    },
+    {
+      "cmd": "amazon",
+      "info": "Comando utilizado para pesquisa de valores na loja virtual \"Amazon\", por exemplo, podes pesquisar a procura um celular barato: \n\n#prefixo#amazon Celular A14\n\npode pesquisar o que quiser, vibrador, caneta, brinco, é isso..\n\nBoa sorte!!"
     }
   ]
 }

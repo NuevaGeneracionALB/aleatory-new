@@ -1,16 +1,19 @@
 var TEXTOS_GERAL = {
 
+// LINK DA FOTO DO MENU // QUISER SEM FOTO, VOCÊ TROCA `https://xatimg.com/image/7JweqAjDsPWh.png`, pra false, sem as aspas, e não esquece da virgula do final.
+FOTO_DO_MENU: `https://xatimg.com/image/7JweqAjDsPWh.png`,
+
 // QUANDO O MODO BRINCADEIRA TIVER DESATIVADO
 MODO_BRINCADEIRA: `Modo brincadeira está desativado, use o comando:\n#prefixo#brincadeiras para ativar, usando o comando novamente você desativa, boa sorte.`,
 
 // LINK DA IMAGEM DO COMANDO DE CASAL
-LINK_COMANDO_CASAL: "https://telegra.ph/file/83da737d9282c0c6bb632.jpg",
+LINK_COMANDO_CASAL: "https://xatimg.com/image/K88c2BkQwlcF.jpg",
 
 // TEXTO DO COMANDO DE CASAL // O #porcentagem# vai puxar de 0 a 100.
 TEXTO_COMANDO_CASAL: `🌟 Casal do grupo com ॐ #porcentagem# ✨ de chance pra da certo 😏:`,
 
 // #tempo# é quantos segundos ta definido no comando tempocmd, e #tempocmd# é quanto falta pra chegar no tempo definido, exemplo: 1 minuto // esse texto é do comando limitarcomando, veja a info dele usando o comando info limitarcomando
-TEMPO_DE_CMD: `Aguarde #tempo# Segundos ate executar outro comando, tempo a conxluir: ⏳ #tempocmd#`,
+TEMPO_DE_CMD: `Aguarde #tempo# Segundos ate executar outro comando, tempo a concluir: ⏳ #tempocmd#`,
 
 // TEXTO PARA QUANDO REMOVER UM USUARIO QUE TÁ MARCANDO TODOS COM WHATSAPP MODIFICADO, E NÃO É ADM DO GRUPO:
 
