@@ -1,5 +1,23 @@
 var TEXTOS_GERAL = {
 
+// TEXTO DE REMOÇÃO DE QUEM ENVIOU IMAGEM
+REMOVEU_Q_ENVIOU_IMAGEM: `Usuario enviou imagem, e é proibido nesse grupo.`,
+
+// TEXTO DE REMOÇÃO DE QUEM ENVIOU VIDEO
+REMOVEU_Q_ENVIOU_VIDEO: `Usuario enviou video, e é proibido nesse grupo.`,
+
+// TEXTO DE REMOÇÃO DE QUEM ENVIOU DOCUMENTO
+REMOVEU_Q_ENVIOU_DOCUMENTO: `Usuario enviou documento, e é proibido nesse grupo.`,
+
+// TEXTO DE REMOÇÃO DE QUEM ENVIOU CATALOGO
+REMOVEU_Q_ENVIOU_CATALOGO: `Usuario enviou catalogo, e é proibido nesse grupo.`,
+
+// TEXTO DE REMOÇÃO DE QUEM ENVIOU LOCALIZAÇÃO
+REMOVEU_Q_ENVIOU_LOCALIZACAO: `Usuario enviou localização, e é proibido nesse grupo.`,
+
+// TEXTO DE QUEM ENVIOU VCARD/CONTATO
+REMOVEU_Q_ENVIOU_CONTATO: `Usuario enviou vcard/contato, e é proibido nesse grupo.`,
+
 // LINK DA FOTO DO MENU // QUISER SEM FOTO, VOCÊ TROCA `https://xatimg.com/image/7JweqAjDsPWh.png`, pra false, sem as aspas, e não esquece da virgula do final.
 FOTO_DO_MENU: `https://xatimg.com/image/7JweqAjDsPWh.png`,
 
@@ -48,6 +66,9 @@ ANTI_ESTRANGEIRO_T: `Usuario estrangeiro não permitido entrou no grupo, irei re
 
 // MENSAGEM DE QUE REMOVEU O USARIO QUE ENVIOU LINK // SE QUISER QUE A MENSAGEM NÃO SEJA ENVIADA, DEIXE DEFINIDO `0`
 REMOVEU_LINK: `0`,
+
+// MENSAGEM DE QUE REMOVEU O USARIO QUE ENVIOU LINK DE GRUPO // SE QUISER QUE A MENSAGEM NÃO SEJA ENVIADA, DEIXE DEFINIDO `0`
+REMOVEU_LINK_DE_GRUPO: `0`,
 
 // REMOVER USUARIOS QUE EXCEDE O LIMITE DE CARACTERES, DO COMANDO LIMITECARACTERES OU USANDO O DIMINUITIVO LIMITEC, A SIGLA #LMTCRC# É UMA DEFINIÇÃO DO LIMITE QUE NÃO PODE EXCEDER, QUE VAI APARECER QUANDO ENVIAR.
 LIMITE_CARACTERES: `Usuario excedeu o limite de caracteres permitida pelos administradores, então irei remover, Limite permitido: #LMTCRC#`,

@@ -9,18 +9,6 @@
       "info": "Comando usado para apagar a mensagem do bot ou de algum usuário de fórma geral, irei apagar a mensagem de qualquer membro do grupo se algum administrador marcar com o comando delete ou d que é a fórma diminuitiva."
     },
     {
-      "cmd": "so_adm",
-      "info": "Este comando #prefixo#so_adm é usado para bloquear o grupo apenas para administradores conseguir utilizar os comandos, nenhum membro comum conseguirá utilizar meus comandos."
-    },
-    {
-      "cmd": "anti_estrangeiro",
-      "info": "Este comando é formado por 3 comandos.\n\n#prefixo#anti_estrangeiro\n\n#prefixo#addddi\n\n#prefixo#rmddi\n\nO addddi é pra adicionar o ddi que é permitido no grupo, por exemplo, o seu número se for brasileiro, tem um +55 na frente, então esse 55 é o ddi, que identifica o seu país, então com o adddi você permite quais ddi pode participar do seu grupo.\n\nExemplo: #prefixo#addddi 55\n\nJá pra não permitir mais entrar é\n\n#prefixo#rmddi 55\n\nE pra ativar a remoção use\n\n#prefixo#anti_estrangeiro\n\nBoa sorte.."
-    },
-    {
-      "cmd": "antilink",
-      "info": "O comando #prefixo#antilink você deve ativar quando não quiser que membros comum envie qualquer tipo de link no grupo, quem enviar link no grupo sem ser administrador quando este comando tiver ativado, eu irei remover este usuário, e apagar o link que ele enviou.\n\nQuiser saber como pode privar apenas um tipo de link, use o comando antipalavra\n\nQuiser saber sobre, use #prefixo#info antipalavra"
-    },
-    {
       "cmd": "listanegra",
       "info": "Este comando é para poder remover usuários que saiu e pensa em voltar para perturbar o grupo, ou se você não quer que esse usuário entre no seu grupo de jeito nenhum, você já vai usando o comando\n\n#prefixo#listanegra +55 81 9892-3688\n\nO número que coloquei foi um exemplo, para mostrar como você deve fazer, lembre que não pode colocar o número do usuário diferente do número do whatsapp, porque senão eu não conseguirei remover ele quando ele entrar no grupo\n\nQuiser ver a lista de usuarios que não são permitido entrar nesse grupo, use o comando: #prefixo#listanegrarm"
     },
@@ -104,7 +92,7 @@
     },
     {
       "cmd": "bemvindo",
-      "info": "Ativando este comando: #prefixo#bemvindo, ele enviará a foto do grupo + o texto que você determinar, usando o comando: #prefixo#txtbv\nPor exemplo: #prefixo#txtbv Olá #numerodele# Bem vindo ao grupo: #nomegp#\n\nUsando as definições #nomegp# e #numerodele# puxará automaticamente o nome do grupo, e numero do usuario marcando ele, Boa sorte."
+      "info": "Ativando este comando: #prefixo#bemvindo, ele enviará a foto do usuario + o texto que você determinar, usando o comando: #prefixo#txtbv\nPor exemplo: #prefixo#txtbv Olá #numerodele# Bem vindo ao grupo: #nomegp#\n\nUsando as definições #nomegp# e #numerodele# puxará automaticamente o nome do grupo, e numero do usuario marcando ele, Boa sorte."
     },
     {
       "cmd": "bemvindo2",
@@ -199,6 +187,10 @@
     {
       "cmd": "esporte-noticias",
       "info": "Este comando eu criei com o intuito de trazer notícias recente do dia a dia do mundo esportivo ( Futebol ) & Bom demais pra quem curte ficar por dentro das notícias, só usar o comando #prefixo#esporte-noticias\n\nele vai vim noticias aleatórias do dia que foi publicadas, do mundo do futebol 🙂, Boa sorte."
+    },
+    {
+      "cmd": "logos",
+      "info": "Este comando contém mais de 70 imagens com efeitos, você usará por exemplo:\n\n#prefixo#logos Aleatory\n\ne será mostrado todas opções disponíveis, de logos.. \n\nBoa sorte.."
     }
   ],
   "informações": [
@@ -229,6 +221,48 @@
     {
       "cmd": "amazon",
       "info": "Comando utilizado para pesquisa de valores na loja virtual \"Amazon\", por exemplo, podes pesquisar a procura um celular barato: \n\n#prefixo#amazon Celular A14\n\npode pesquisar o que quiser, vibrador, caneta, brinco, é isso..\n\nBoa sorte!!"
+    }
+  ],
+  "ativações do grupo": [
+    {
+      "cmd": "anti_estrangeiro",
+      "info": "Este comando é formado por 3 comandos.\n\n#prefixo#anti_estrangeiro\n\n#prefixo#addddi\n\n#prefixo#rmddi\n\nO addddi é pra adicionar o ddi que é permitido no grupo, por exemplo, o seu número se for brasileiro, tem um +55 na frente, então esse 55 é o ddi, que identifica o seu país, então com o adddi você permite quais ddi pode participar do seu grupo.\n\nExemplo: #prefixo#addddi 55\n\nJá pra não permitir mais entrar é\n\n#prefixo#rmddi 55\n\nE pra ativar a remoção use\n\n#prefixo#anti_estrangeiro\n\nBoa sorte.."
+    },
+    {
+      "cmd": "antilink",
+      "info": "O comando #prefixo#antilink você deve ativar quando não quiser que membros comum envie qualquer tipo de link no grupo, quem enviar link no grupo sem ser administrador quando este comando tiver ativado, eu irei remover este usuário, e apagar o link que ele enviou.\n\nQuiser saber como pode privar apenas um tipo de link, use o comando antipalavra\n\nQuiser saber sobre, use #prefixo#info antipalavra"
+    },
+    {
+      "cmd": "so_adm",
+      "info": "Este comando #prefixo#so_adm é usado para bloquear o grupo apenas para administradores conseguir utilizar os comandos, nenhum membro comum conseguirá utilizar meus comandos."
+    },
+    {
+      "cmd": "antiimg",
+      "info": "O comando: #prefixo#antiimg \n\nele serve para ativar a função de remover usuários que enviar alguma imagem no grupo, bom para grupos específicos que é proibido o envio de imagem.\n\nApós usar o comando #prefixo#antiimg \n\nele vai ativar, quando usar o comando novamente ele desativará."
+    },
+    {
+      "cmd": "antivideo",
+      "info": "O comando: #prefixo#antivideo\n\nele serve para ativar a função de remover usuários que enviar algum video no grupo, bom para grupos específicos que é proibido o envio de videos.\n\nApós usar o comando #prefixo#antivideo\n\nele vai ativar, quando usar o comando novamente ele desativará."
+    },
+    {
+      "cmd": "antidoc",
+      "info": "O comando: #prefixo#antidoc\n\nele serve para ativar a função de remover usuários que enviar algum documento no grupo, bom para grupos específicos que é proibido o envio de documentos.\n\nApós usar o comando #prefixo#antidoc\n\nele vai ativar, quando usar o comando novamente ele desativará."
+    },
+    {
+      "cmd": "antiloc",
+      "info": "O comando: #prefixo#antiloc\n\nele serve para ativar a função de remover usuários que enviar alguma localização no grupo, bom para grupos específicos que é proibido o envio de localizações.\n\nApós usar o comando #prefixo#antiloc\n\nele vai ativar, quando usar o comando novamente ele desativará."
+    },
+    {
+      "cmd": "anticatalogo",
+      "info": "O comando: #prefixo#anticatalogo\n\nele serve para ativar a função de remover usuários que enviar algum catalogo no grupo, bom para grupos específicos que é proibido o envio de catalogo.\n\nApós usar o comando #prefixo#anticatalogo\n\nele vai ativar, quando usar o comando novamente ele desativará."
+    },
+    {
+      "cmd": "anticontato",
+      "info": "O comando: #prefixo#anticontato\n\nele serve para ativar a função de remover usuários que enviar algum contato/vard no grupo, bom para grupos específicos que é proibido o envio de anticontato.\n\nApós usar o comando #prefixo#anticontato\n\nele vai ativar, quando usar o comando novamente ele desativará."
+    },
+    {
+      "cmd": "antilinkgp",
+      "info": "Este comando: #prefixo#antilinkgp\n\nserve para remover links que são enviados por algum membro do grupo, e remove o membro também.\n\nusando o comando: #prefixo#antilinkgp\n\numa vez, ele será ativado, usando novamente, ele será desativado.\n\nBoa sorte!!"
     }
   ]
 }
